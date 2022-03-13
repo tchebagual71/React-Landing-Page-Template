@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "",
+    "paragraph": ""
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Pepefrens is an NFT project focused on facilitating a community of frens with true and genuine camaraderie. As a project founded by true frens, we feel it is our duty to assist others in finding their community of like-minded individuals. The public will have their opportunity to mint their very own Fren during our Open Fren Mint. Mint cost will be only 0.01 ETH, and 30% of proceeds will be donated to those affected by the war. After our initial mint, stake your Frens for $PEPE, 50% of royalties will be paid to stakers. Merch partnerships and more to come!",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -131,24 +131,24 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/1.png",
+      "name": "Xoto",
+      "job": "Developer"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/team/2.png",
+      "name": "Lucci",
+      "job": "Project Management"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/team/3.png",
+      "name": "Dantey",
+      "job": "Marketing Lead"
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/team/4.png",
+      "name": "Chloe",
+      "job": "Artist"
     }
   ],
   "Contact": {
