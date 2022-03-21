@@ -37,7 +37,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2020 Pepefrens
+            &copy; 2022 Pepefrens
           </p>
         </div>
       </div>
