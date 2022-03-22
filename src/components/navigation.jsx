@@ -40,6 +40,16 @@ export const Navigation = (props) => {
               DISCORD
             </a>
             </li>
+            <li>
+              <a href='http://www.pepefrens.info/' rel='nofollow'>
+              MINT
+            </a>
+            </li>
+            <li>
+              <a href='https://opensea.io/collection/pepefrens' rel='nofollow'>
+              OPENSEA
+            </a>
+            </li>
           </ul>
         </div>
       </div>
