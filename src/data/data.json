@@ -161,24 +161,24 @@
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
-    },
-    {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Reveal Date",
+      "text": "Still to be determined, fren. We will set the reveal date after the minting process is SOLD OUT, so stay tuned in the discord!"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-comments-o",
+      "title": "Charity & Treasury",
+      "text": "After our initial Mint we will Donate 30% of proceeds to those affected by the war, and begin our community giveaways on daily bases!"
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Rarity Information",
+      "text": "When the reveal time arrives, We'll be partnering with one or multiple rarity ranking websites to launch our official rarity ranking!"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Partnerships",
+      "text": "We'll be partnering with new upcoming and promising NFT projects and communities and will run NFT Giveaways, Whitelist Giveaways and Free Mint Giveaways to our holders! "
     }
   ]
 }
